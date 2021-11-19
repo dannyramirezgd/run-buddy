@@ -12,3 +12,5 @@ https://dannyramirezgd.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Danny Ramirez
+
+### ©️2019 Run Buddy, Inc 
